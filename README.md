@@ -19,7 +19,7 @@
      * @param to   Object which properties will be set.
      * @param from Object which properties will be used to get values.
      */
-    public static void assign(Object to, Object from) {... }
+   - public static void assign(Object to, Object from) {... }
 - }
 
 
